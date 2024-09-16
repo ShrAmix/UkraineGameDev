@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\UkraineGameDev.bundle.scp.css",
+      "PackagePath": "staticwebassets\\UkraineGameDev.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\Index\\3AAA.png",
+      "PackagePath": "staticwebassets\\images\\Index\\3AAA.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\Index\\4A Games.png",
+      "PackagePath": "staticwebassets\\images\\Index\\4A Games.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\Index\\Controller.png",
+      "PackagePath": "staticwebassets\\images\\Index\\Controller.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\Index\\Frogwares.png",
+      "PackagePath": "staticwebassets\\images\\Index\\Frogwares.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\Index\\GSC_Game_World.png",
+      "PackagePath": "staticwebassets\\images\\Index\\GSC_Game_World.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\Index\\ukrainian-gamedev.png",
+      "PackagePath": "staticwebassets\\images\\Index\\ukrainian-gamedev.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logo.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\MetroExodus\\Ashot.png",
+      "PackagePath": "staticwebassets\\images\\MetroExodus\\Ashot.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\MetroExodus\\Clipboard.png",
+      "PackagePath": "staticwebassets\\images\\MetroExodus\\Clipboard.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\MetroExodus\\FirstAidKid.png",
+      "PackagePath": "staticwebassets\\images\\MetroExodus\\FirstAidKid.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\MetroExodus\\Metro_banner.png",
+      "PackagePath": "staticwebassets\\images\\MetroExodus\\Metro_banner.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\MetroExodus\\RTX.png",
+      "PackagePath": "staticwebassets\\images\\MetroExodus\\RTX.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\SherlockHolmes\\Back.png",
+      "PackagePath": "staticwebassets\\images\\SherlockHolmes\\Back.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\SherlockHolmes\\CapuRossu.png",
+      "PackagePath": "staticwebassets\\images\\SherlockHolmes\\CapuRossu.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\SherlockHolmes\\Hat.png",
+      "PackagePath": "staticwebassets\\images\\SherlockHolmes\\Hat.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\SherlockHolmes\\RubikCube.png",
+      "PackagePath": "staticwebassets\\images\\SherlockHolmes\\RubikCube.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\SherlockHolmes\\Sherlock_banner.png",
+      "PackagePath": "staticwebassets\\images\\SherlockHolmes\\Sherlock_banner.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\Stalcket2\\GasMask.png",
+      "PackagePath": "staticwebassets\\images\\Stalcket2\\GasMask.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\Stalcket2\\Mutant.png",
+      "PackagePath": "staticwebassets\\images\\Stalcket2\\Mutant.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\Stalcket2\\S.T.A.L.K.E.R._2_banner.png",
+      "PackagePath": "staticwebassets\\images\\Stalcket2\\S.T.A.L.K.E.R._2_banner.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\Stalcket2\\boltPutToStudy.gif",
+      "PackagePath": "staticwebassets\\images\\Stalcket2\\boltPutToStudy.gif"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\Stalcket2\\sKnife.png",
+      "PackagePath": "staticwebassets\\images\\Stalcket2\\sKnife.png"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.UkraineGameDev.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.UkraineGameDev.props",
+      "PackagePath": "build\\UkraineGameDev.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.UkraineGameDev.props",
+      "PackagePath": "buildMultiTargeting\\UkraineGameDev.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.UkraineGameDev.props",
+      "PackagePath": "buildTransitive\\UkraineGameDev.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

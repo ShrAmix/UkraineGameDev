@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - UkraineGameDev</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap">
+    <link rel="stylesheet" href="~/css/site.css" />
+    <!-- Додаємо фавіконик -->
+    <link rel="icon" type="image/png" href="/images/Logo.png"/>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a asp-page="/Index">Головна</a></li>
+                <li><a asp-page="/Stalker2">S.T.A.L.K.E.R. 2</a></li>
+                <li><a asp-page="/MetroExodus">Metro Exodus</a></li>
+                <li><a asp-page="/SherlockHolmes">Sherlock Holmes Chapter One</a></li>
+            </ul>
+            <div class="logo-toggle">
+                <a href="https://play.google.com/store/apps/details?id=com.IfoxpEntertainment.SpaceRog&hl=en" target="_blank">
+                    <img src="/images/logo.png" alt="Logo" style="width: 50%;" />
+                </a>
+
+            </div>
+            <span id="menu-toggle" class="menu-toggle">&#9776;</span>
+        </nav>
+    </header>
+    <div id="text-block" class="text-block">
+        <main role="main" class="pb-3 main-content">
+            @RenderBody()
+        </main>
+    </div>
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - UkraineGameDev -
+            <a asp-area="" asp-page="/Privacy"><!--Privacy--></a>
+            <a href="https://policies.google.com/privacy?hl=en-US" target="_blank">Privacy</a>
+        </div>
+    </footer>
+    <div id="side-menu" class="side-menu">
+        <div id="menu-content"></div>
+    </div>
+    @RenderSection("Scripts", required: false)
+    <script src="~/js/site.js"></script>
+</body>
+</html>

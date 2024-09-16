@@ -1,0 +1,309 @@
+﻿/* =========================== 
+   Основні стилі для всього сайту
+   =========================== */
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif; /* Шрифт для всього сайту */
+    background-color: #f1ede7; /* Фон сторінки */
+    padding-bottom: 100px; /* Відступ знизу для футера */
+}
+
+.wrapper {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+/* ===========================
+   Стилі для верхнього меню (header)
+   =========================== */
+header {
+    background-color: #333;
+    color: white;
+    padding: 0; /* Видалити падінг для того, щоб зображення було впритул до країв */
+    margin: 0; /* Видалити відступи, якщо є */
+    padding: 20px 0;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    transition: transform 0.3s ease;
+}
+
+/* ===========================
+   Стилі для основного контенту
+   =========================== */
+.main-content {
+    flex: 1;
+    padding-top: 80px; /* Відступ, щоб заголовок не перекривав контент */
+    position: relative;
+    width: 100%;
+    left: 0;
+    transition: left 0.3s ease, width 0.3s ease;
+}
+
+/* Контейнер для тексту */
+.container {
+    padding: 20px;
+}
+
+/* ===========================
+   Стилі для текстових блоків
+   =========================== */
+.text-block {
+    font-size: 30px;
+}
+
+    .text-block p, .text-block h1, .text-block h2, .text-block ul {
+        color: #052c10;
+        padding: 0 30px;
+        margin-bottom: 15px;
+        line-height: 1.6;
+        transition: padding 0.3s ease;
+    }
+
+    .text-block img {
+        max-width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .text-block.open p, .text-block.open h1, .text-block.open h2, .text-block.open ul {
+        padding: 0 10px !important;
+    }
+
+    .text-block.close p, .text-block.close h1, .text-block.close h2, .text-block.close ul {
+        padding: 0 30px;
+    }
+
+a.custom-link {
+    color: #052c10 !important;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+    a.custom-link:hover {
+        color: #e28502 !important;
+    }
+
+p a.custom-link,
+h2 a.custom-link,
+h1 a.custom-link {
+    /* Стилі вже включені в a.custom-link */
+}
+
+
+/* ===========================
+   Стилі для бокового меню
+   =========================== */
+.side-menu {
+    position: fixed;
+    left: -250px;
+    top: 45px;
+    width: 250px;
+    height: 100%;
+    background-color: #333;
+    padding-top: 15px;
+    transition: left 0.3s ease;
+    z-index: 900;
+}
+
+    .side-menu.open {
+        left: 0;
+    }
+
+    .side-menu a {
+        padding: 16px;
+        font-size: 14px;
+        display: block;
+        text-decoration: none;
+        color: white;
+        transition: color 0.6s ease, background-color 0.6s ease;
+    }
+
+        .side-menu a:hover {
+            color: orange;
+            background-color: #575757;
+        }
+
+    /* Стилі для скролбару */
+    .side-menu::-webkit-scrollbar {
+        width: 12px;
+    }
+
+    .side-menu::-webkit-scrollbar-thumb {
+        background-color: orange;
+        border-radius: 6px;
+    }
+
+        .side-menu::-webkit-scrollbar-thumb:hover {
+            background-color: darkorange;
+        }
+
+/* Firefox Scrollbar */
+.side-menu {
+    scrollbar-width: thin;
+    scrollbar-color: orange #333;
+}
+
+    /* Вплив бокового меню на інші елементи */
+    .side-menu.open ~ .main-content,
+    .side-menu.open ~ header,
+    .side-menu.open ~ footer {
+        left: 250px;
+        width: calc(100% - 250px);
+    }
+
+/* ===========================
+   Стилі для кнопки меню
+   =========================== */
+.menu-toggle {
+    font-size: 30px;
+    cursor: pointer;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    color: white;
+    z-index: 1001;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+    .menu-toggle.transparent {
+        color: orange;
+    }
+
+
+.logo-toggle {
+    cursor: pointer;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    color: white;
+    z-index: 1001;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+/* ===========================
+   Стилі для футера
+   =========================== */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+    position: relative;
+}
+
+    footer a {
+        color: orange;
+        text-decoration: none;
+    }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+/* ===========================
+   Стилі для навігаційного меню
+   =========================== */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+    nav ul li {
+        display: inline;
+        margin-right: 30px;
+    }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            transition: color 0.6s ease;
+            padding: 5px 10px;
+        }
+
+            nav ul li a:hover {
+                color: orange;
+            }
+
+/* ===========================
+   Стилі для контейнерів з текстом та картинками
+   =========================== */
+.text-image-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.text {
+    flex: 1;
+    font-size: 30px;
+    padding: 10px;
+}
+.image {
+    flex: 1;
+    text-align: center;
+}
+    .image img {
+        max-width: 90%;
+        height: auto;
+        transition: transform 0.3s ease;
+    }
+
+        .image img:hover {
+            transform: scale(1.1);
+        }
+
+
+.video {
+    text-align: center;
+    padding-left: 20px;
+    flex: 1;
+    max-width: 90%;
+    height: auto;
+}
+
+
+
+.text-image-container.reverse {
+    flex-direction: row-reverse;
+}
+
+
+/* ===========================
+   Додаткові стилі
+   =========================== */
+.visually-hidden {
+    font-size: 1px;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+
+
+
+/* ===========================
+   Стилі для анімації появи тексту
+   =========================== */
+.hidden {
+    opacity: 0;
+    transform: translateY(80px);
+    transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+
+.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
