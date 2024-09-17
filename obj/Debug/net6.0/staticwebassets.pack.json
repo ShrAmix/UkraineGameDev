@@ -101,6 +101,10 @@
       "PackagePath": "staticwebassets\\images\\Stalcket2\\sKnife.png"
     },
     {
+      "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\images\\ico.png",
+      "PackagePath": "staticwebassets\\images\\ico.png"
+    },
+    {
       "Id": "E:\\VNTY\\Комп'ютерна графіка\\Kyrsach\\UkraineGameDev\\UkraineGameDev\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
