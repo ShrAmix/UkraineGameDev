@@ -1,0 +1,22 @@
+﻿@page
+@model UkraineGameDev.Pages.ProfileModel
+@using Microsoft.AspNetCore.Identity
+@using Microsoft.AspNetCore.Mvc.Rendering
+@using Microsoft.AspNetCore.Mvc
+@using System.Threading.Tasks
+
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>Welcome, @Model.UserName</p>
+
+<form method="post" asp-page-handler="Logout">
+    <button type="submit" class="btn btn-primary">Logout</button>
+</form>
+
+<form method="post" asp-page-handler="DeleteAccount">
+    <button type="submit" class="btn btn-danger">Delete Account</button>
+</form>

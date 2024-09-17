@@ -307,3 +307,19 @@ nav ul {
     transform: translateY(0);
 }
 
+
+
+/* Стилі для кнопок у навігації */
+nav ul li a.btn {
+    background-color: #e28502;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-left: 10px;
+    transition: background-color 0.3s ease;
+}
+
+    nav ul li a.btn:hover {
+        background-color: #d67d02;
+    }
