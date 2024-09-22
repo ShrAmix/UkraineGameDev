@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UkraineGameDev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7a4715be2a9cc7dafd0775aef28e50afdefdbe3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1feee0dd6d61fbd140083fc6bc732edfddf382d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("UkraineGameDev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UkraineGameDev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
