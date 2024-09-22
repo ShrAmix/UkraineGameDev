@@ -1,0 +1,1 @@
+Для того щоб запустити сайт, завантажте MySite.rar по посиланню https://github.com/ShrAmix/UkraineGameDev/raw/refs/heads/main/MySite.rar або зверху в репозиторію. Розпакуйте його і запустіть UkraineGameDev.exe. Після чого вам в консоті покаже силку на сайт, http://localhost:5000 або https://localhost:5001
